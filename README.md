@@ -41,3 +41,14 @@ python train_dist.py --config_path /path/your/config_path
 # 4. Inference
 학습이 완료되면 inference.ipynb를 참고하여 학습 완료된 모델의 가중치를 로드하여 추론을 수행할 수 있습니다.
 # 5. 학습 결과
+각 테스트 데이터셋에 대한 translation 결과를 보여줍니다.
+## Apple2Orange
+![apple2orange](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/022fb04a-bbef-4ff7-9f86-973cf70a596c)
+## Facade
+![facade](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/89bf38b9-c9ef-4b36-95b7-626fc181d7b6)
+## Horse2Zebra
+![horse2zebra](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/d43f925b-9a9b-449b-b533-48ba22759e3b)
+## Monet2Photo
+![monet2photo](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/636056ad-03b5-41c8-bfc6-fedc7bd3ba83)
+## Summer2Winter
+![summer2winter](https://github.com/cjw94103/CycleGAN_reimpl/assets/45551860/60936d84-434d-44c3-bb18-c95ae8229d25)
