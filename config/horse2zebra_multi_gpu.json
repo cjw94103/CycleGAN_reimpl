@@ -1,0 +1,20 @@
+{
+    "data_path": "./data/horse2zebra/",
+    "img_height": 256,
+    "img_width": 256,
+    "channels": 3,
+    "num_workers": 0,
+    "batch_size": 8,
+    "n_residual_blocks": 9,
+    "epochs": 200,
+    "lr_decay_epoch": 100,
+    "lambda_cyc": 10.0,
+    "lambda_id": 5.0,
+    "model_save_path": "./model_result/Horse2Zebra/Translation_Model.pth",
+    "save_per_epochs": 100,
+    "multi_gpu_flag": true,
+    "port_num": 14000,
+    "b1": 0.5,
+    "b2": 0.999,
+    "lr": 0.0002
+}
